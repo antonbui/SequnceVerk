@@ -1,1 +1,3 @@
 #Forrit sem reiknar út sequence-ið  1, 2, 3, 6, 11, 20, 37, ___, ___, ___, ...
+
+n = int(input("Enter the length of the sequence: ")) # Do not change this line
